@@ -7,6 +7,9 @@
 
 <!-- PROJECT SHIELDS -->
 
+## Interface do Nubank
+<img src="/nubank.gif">
+
 [![npm](https://img.shields.io/npm/v/react-native-template-rocketseat-basic.svg?label=npm%20package)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
 [![npm](https://img.shields.io/npm/dt/react-native-template-rocketseat-basic.svg)](https://www.npmjs.com/package/react-native-template-rocketseat-basic)
 [![GitHub issues](https://img.shields.io/github/issues-raw/rocketseat/react-native-template-rocketseat-basic.svg)](https://github.com/Rocketseat/react-native-template-rocketseat-basic/issues)
@@ -63,7 +66,3 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Rocketseat - [Github](https://github.com/rocketseat) - **oi@rocketseat.com.br**
-
-## App
-
-<img src="/nubank.gif">
